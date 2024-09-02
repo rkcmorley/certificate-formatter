@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Assuming your certificate content is in a file called 'certificate.txt'
-INPUT_FILE="1.txt"
+INPUT_FILE="certificate.txt"
 
 # Read the certificate content from the file
 CERTIFICATE=$(cat "$INPUT_FILE")
